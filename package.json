@@ -1,0 +1,33 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4501104200/nodejs_blog.github.io.git"
+  },
+  "keywords": [
+    "gg",
+    "blog",
+    "gg",
+    "nodejs",
+    "nodejs"
+  ],
+  "author": "sonvu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4501104200/nodejs_blog.github.io/issues"
+  },
+  "homepage": "https://github.com/4501104200/nodejs_blog.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
